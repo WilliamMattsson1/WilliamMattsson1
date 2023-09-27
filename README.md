@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Javascript Projects**
 
-- 📫 How to reach me **wmattsson@hotmail.com**
+- 📫 How to reach me **william.mattsson@iths.se**
 
 - 🎓 Student at IT-Högskolan
   
