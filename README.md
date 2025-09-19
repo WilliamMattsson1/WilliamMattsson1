@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate frontend developer student</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Javascript Projects**
+- 🔭 I’m currently working on **React Projects**
 
-- 📫 How to reach me **william.mattsson@iths.se**
+- 📫 How to reach me **wmattsson@hotmail.com**
 
 - 🎓 Student at IT-Högskolan
   
@@ -12,7 +12,7 @@
 
  **HTML | CSS | JavaScript | Bootstrap | SASS | Git**
  
-Passionate about crafting stunning web experiences with a focus on frontend development. Proficient in HTML, CSS, JavaScript, and Bootstrap, with a hunger for continuous learning. Currently sharpening my skills at IT-Högskolan and eager to dive deeper into the ever-evolving world of web development. Let's connect and code together! 🚀
+Passionate about crafting stunning web experiences with a focus on frontend development. Proficient in HTML, CSS, JavaScript, React, with a hunger for continuous learning. Let's connect and code together! 🚀
 
 
 <h3 align="left">Languages and Skills:</h3>
